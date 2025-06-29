@@ -138,7 +138,7 @@ define('ENVIRONMENT', 'development');
 
 ## 🖥️ Exemplo de Saída
 
-![Exemplo de saída do dd()](https://via.placeholder.com/800x400/1e1e1e/50fa7b?text=Debug+Visual+Interativo)
+![Exemplo de saída do dd()](https://raw.githubusercontent.com/adrianoarch/dd_helper/main/dd_example.png)
 *(Visualização interativa com syntax highlighting e colapsável)*
 
 ## 📄 Licença
